@@ -37,7 +37,7 @@ export default {
     recycling: 'Reciclagem',
     professionalizing: 'Profissionalizante',
     extension: 'Extensão',
-    exchange: 'Intercâmbio',            
+    exchange: 'Intercâmbio',
   },
   educationSituations: {
     notInform: 'Não informar',
@@ -45,14 +45,14 @@ export default {
     coursing: 'Cursando',
     paused: 'Pausado',
     incomplete: 'Incompleto',
-  }, 
+  },
   experienceTypes: {
     'professional': 'Profissional',
     'achievement': 'Realização',
     'project': 'Projeto',
     'production': 'Produção',
     'competition': 'Competição',
-    'volunteering': 'Voluntariado',            
+    'volunteering': 'Voluntariado',
   },
   experienceLabel: {
     'professional': {
@@ -70,7 +70,7 @@ export default {
     'project': {
       title: 'Instituição',
       activity: 'Qual o projeto?',
-    },  
+    },
     'competition': {
       title: 'Nome da Competição',
       activity: 'Atividade',
@@ -84,7 +84,7 @@ export default {
     'doNotInform': 'Não informar',
     'married': 'Casado(a)',
     'single': 'Solteiro(a)',
-    'divorced': 'Divorciado(a)',      
+    'divorced': 'Divorciado(a)',
   },
   contactKinds: {
     'phone': 'Fixo',
@@ -110,7 +110,7 @@ export default {
     'patent': 'Patente',
     'project': 'Projeto',
     'achievement': 'Conquista',
-    'competition': 'Competição',      
+    'competition': 'Competição',
     'publication': 'Publicação',
     'recognition': 'Reconhecimento',
   },
@@ -121,7 +121,7 @@ export default {
     searching: 'Buscando',
     loadMore: 'Carregar mais',
     findACv: 'Encontre um CV',
-    nameRoleOrLocation: 'Nome, cargo, localidade, etc',
+    nameRoleOrLocation: 'Nome, função, localização ou outros detalhes',
     noSearchQuery: 'Não há nenhum critério de busca a ser executado',
     showingResultsFor: 'Mostrando resultados para',
     theSearchFor: 'A busca por',
