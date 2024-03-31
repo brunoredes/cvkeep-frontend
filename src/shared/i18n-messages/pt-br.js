@@ -144,5 +144,8 @@ export default {
       createdWithHardWork: 'criado com um pouco de trabalho duro.',
       considerDonate: 'Se tem sido útil aos seus propósitos, considere fazer uma doaçao em apoio.'
     }
-  }
+  },
+	a11y: {
+		close: 'Fechar modal'
+	}
 }

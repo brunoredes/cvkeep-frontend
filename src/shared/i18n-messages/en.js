@@ -145,5 +145,8 @@ export default {
       createdWithHardWork: 'created with some hard work.',
       considerDonate: 'If has been useful for your purposes, consider to make a donation.'
     }
-  }
+  },
+	a11y: {
+		close: 'Close dialog'
+	}
 }

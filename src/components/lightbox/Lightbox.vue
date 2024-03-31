@@ -9,7 +9,7 @@
 						class="close-button"
 						@click="close"
 						@keyup.enter="close"
-						:aria-label="$t('close')"
+						:aria-label="$t('a11y.close')"
 						>
 						<i class="fa fa-times" role="presentation" aria-hidden="true"></i>
 					</span>
@@ -79,20 +79,6 @@
 		destroyed () {
 			this.hideBodyScroll(false);
 			document.removeEventListener('keyup', this.$el.onEscapeEvent);
-		},
-
-		i18n: {
-			messages: {
-				'pt-BR': {
-					close: 'Fechar modal'
-				},
-				'en': {
-					close: 'Close dialog'
-				},
-				'fr': {
-					close: 'Fermer dialog'
-				}
-			}
 		}
 	}
 </script>

@@ -145,5 +145,8 @@ export default {
         createdWithHardWork: 'créé avec un travail acharné.',
         considerDonate: 'Si cela vous a été utile, envisagez de faire un don..'
       }
-    }
+    },
+		a11y: {
+			close: 'Fermer dialog'
+		}
   }
