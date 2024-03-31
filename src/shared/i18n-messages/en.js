@@ -138,6 +138,7 @@ export default {
     thanksForYourDonation: 'Thanks for your donation!',
     pixDonation: 'PIX donation',
     heresThePixKey: 'Here is the PIX key,',
+		paypalDonation: 'Paypal donation',
     feature: {
       thisIsA: 'This is a',
       freeServiceAndPlatform: 'free service and platform',
