@@ -122,7 +122,7 @@ export default {
     searching: 'Searching',
     loadMore: 'Load more',
     findACv: 'Find a CV',
-    nameRoleOrLocation: 'Name, role, location or other details',
+    nameRoleOrLocation: 'Name, role, locale or other details',
     noSearchQuery: 'There is no search query',
     showingResultsFor: 'Showing results for',
     theSearchFor: 'The search for',

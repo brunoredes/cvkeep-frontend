@@ -121,7 +121,7 @@ export default {
     searching: 'Buscando',
     loadMore: 'Carregar mais',
     findACv: 'Encontre um CV',
-    nameRoleOrLocation: 'Nome, função, localização ou outros detalhes',
+    nameRoleOrLocation: 'Nome, função, localidade ou outros detalhes',
     noSearchQuery: 'Não há nenhum critério de busca a ser executado',
     showingResultsFor: 'Mostrando resultados para',
     theSearchFor: 'A busca por',
